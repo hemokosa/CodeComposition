@@ -1,0 +1,16 @@
+total 7904
+-rw-r--r--@  1 hemokosa  staff  560803 Aug 23  2005 9.chord.pdf
+-rw-r--r--@  1 hemokosa  staff  219331 Aug 23  2005 10.harmony.pdf
+-rw-r--r--@  1 hemokosa  staff  317092 Sep  5  2005 1.material.pdf
+-rw-r--r--@  1 hemokosa  staff  212604 Sep  5  2005 2.tuning.pdf
+-rw-r--r--@  1 hemokosa  staff   97835 Sep  5  2005 3.listening.pdf
+-rw-r--r--@  1 hemokosa  staff  223593 Sep  5  2005 4.interaction.pdf
+-rw-r--r--@  1 hemokosa  staff  370037 Sep  5  2005 5.melody.pdf
+-rw-r--r--@  1 hemokosa  staff  732551 Sep  5  2005 6.variation.pdf
+-rw-r--r--@  1 hemokosa  staff  104490 Sep  5  2005 7.structure.pdf
+-rw-r--r--@  1 hemokosa  staff  143929 Sep  5  2005 8.rhythm.pdf
+-rw-r--r--@  1 hemokosa  staff  618189 Sep  5  2005 11.noise.pdf
+-rw-r--r--@  1 hemokosa  staff  429634 Sep  5  2005 13.scale.pdf
+drwxrwxrwx@ 49 hemokosa  staff    1568 Dec  5 01:47 ..
+-rw-r--r--   1 hemokosa  staff       0 Dec  5 02:02 list.txt
+drwxr-xr-x@ 15 hemokosa  staff     480 Dec  5 02:02 .
